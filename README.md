@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm KEREM</h1>
 <h3 align="center">Data Scientist & Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keremdmrc&label=Profile%20views&color=0e75b6&style=flat" alt="keremdmrc" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -23,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keremdmrc&show_icons=true&locale=en" alt="keremdmrc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keremdmrc&" alt="keremdmrc" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keremdmrc&label=Profile%20views&color=0e75b6&style=flat" alt="keremdmrc" /> </p>
